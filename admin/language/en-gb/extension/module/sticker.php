@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Product Sticker®';
+$_['heading_title']       = 'Product Sticker® 3x';
 
 // Text
 $_['text_extension']   = 'Extensions';
